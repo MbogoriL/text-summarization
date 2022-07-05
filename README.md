@@ -1,2 +1,2 @@
 # text-summarization
-Independent project on text-summarization with news articles
+Independent project on text-summarization with subset of articles from International Reuters
